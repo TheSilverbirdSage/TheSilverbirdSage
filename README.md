@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @TheSilverbirdSage(mosesajagbe)
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning phyton, cybersecurity
-- 💞️ I’m looking to collaborate on security testing projects, phyton projects
+- 👀 I’m interested in Web Developement 
+- 🌱 I’m currently learning ;
+         Languages: JavaScript, TypeScript, Java
+         Frameworks & Libraries: Next.js, React, Swiper.js
+         Styling: Tailwind CSS, CSS3
+         Others: Git, VS Code, Responsive Design
+- 💞️ I’m looking to collaborate on Next js and react projects, looking to team up on exciting projects that enhance modern web design and functionality.
 - 📫 How to reach me mosesajagbe2@gmail.com
 
 <!---
